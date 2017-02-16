@@ -1,0 +1,7 @@
+
+BenchmarkObjectCRUD/POST-4          3000	  13002649 ns/op
+BenchmarkObjectCRUD/GET-4           3000	  12771154 ns/op
+BenchmarkObjectCRUD/PUT-4           3000	  12738328 ns/op
+BenchmarkObjectCRUD/DELETE-4        3000	  13137845 ns/op
+PASS
+
